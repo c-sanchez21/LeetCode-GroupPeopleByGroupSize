@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\Leetcode\GroupPeopleByGroupSize\GroupPeopleByGroupSize\bin\Debug\netcoreapp3.1\GroupPeopleByGroupSize.exe
+C:\Users\Z\source\repos\Git\Leetcode\GroupPeopleByGroupSize\GroupPeopleByGroupSize\bin\Debug\netcoreapp3.1\GroupPeopleByGroupSize.deps.json
+C:\Users\Z\source\repos\Git\Leetcode\GroupPeopleByGroupSize\GroupPeopleByGroupSize\bin\Debug\netcoreapp3.1\GroupPeopleByGroupSize.runtimeconfig.json
+C:\Users\Z\source\repos\Git\Leetcode\GroupPeopleByGroupSize\GroupPeopleByGroupSize\bin\Debug\netcoreapp3.1\GroupPeopleByGroupSize.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\Leetcode\GroupPeopleByGroupSize\GroupPeopleByGroupSize\bin\Debug\netcoreapp3.1\GroupPeopleByGroupSize.dll
+C:\Users\Z\source\repos\Git\Leetcode\GroupPeopleByGroupSize\GroupPeopleByGroupSize\bin\Debug\netcoreapp3.1\GroupPeopleByGroupSize.pdb
+C:\Users\Z\source\repos\Git\Leetcode\GroupPeopleByGroupSize\GroupPeopleByGroupSize\obj\Debug\netcoreapp3.1\GroupPeopleByGroupSize.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\Leetcode\GroupPeopleByGroupSize\GroupPeopleByGroupSize\obj\Debug\netcoreapp3.1\GroupPeopleByGroupSize.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\Leetcode\GroupPeopleByGroupSize\GroupPeopleByGroupSize\obj\Debug\netcoreapp3.1\GroupPeopleByGroupSize.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\Leetcode\GroupPeopleByGroupSize\GroupPeopleByGroupSize\obj\Debug\netcoreapp3.1\GroupPeopleByGroupSize.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\Leetcode\GroupPeopleByGroupSize\GroupPeopleByGroupSize\obj\Debug\netcoreapp3.1\GroupPeopleByGroupSize.dll
+C:\Users\Z\source\repos\Git\Leetcode\GroupPeopleByGroupSize\GroupPeopleByGroupSize\obj\Debug\netcoreapp3.1\GroupPeopleByGroupSize.pdb
+C:\Users\Z\source\repos\Git\Leetcode\GroupPeopleByGroupSize\GroupPeopleByGroupSize\obj\Debug\netcoreapp3.1\GroupPeopleByGroupSize.genruntimeconfig.cache
